@@ -1,14 +1,8 @@
 <h1 align="center"> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
-<span align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39D353&center=true&random=false&width=435&lines=I+am+Arshad;welcome+to+my+Github;Full+Stack+Developer;Node.js_React.js_MongoDB_Express.js)](https://git.io/typing-svg)
-<span/>
-
-###
  ✨ Am here, David Lucian Panait, <br>
  :zap: Turning complex problems into clean, scalable solutions<br>
  :speech_balloon: Designing scalable backend systems built for the cloud
-###
+ 
 ## I code with
 <img align="right" height="150" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif"  />
 
@@ -58,6 +52,5 @@
 ###
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arshadakl&theme=merko&hide_border=false&include_all_commits=true&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshadakl&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciandp&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
 </div>
