@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **David Lucian Panait** (aka *LByteMe*)  
+# 👋 Hi, I'm **David Lucian Panait**
 
 ### 💻 About Me  
 I'm a passionate **Back-End Developer** who enjoys crafting solid, scalable, and elegant systems.  
