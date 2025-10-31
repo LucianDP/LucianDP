@@ -15,19 +15,19 @@ I specialize in **server-side logic, APIs, and automation**, but I also love **F
 
 #### 🧠 Languages & Frameworks I Use  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,django,html,css,linux,ubuntu,arch,mysql,postgresql,git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=java,python,ubuntu,arch,mysql,postgresql,git,github,vscode"/>
 </p>
 
 #### ⚙️ Tools & Automation  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,bash" />
+  <img src="https://skillicons.dev/icons?i=python,docker,bash" />
 </p>
 
 ---
 
 ### 🌱 Currently Learning  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,angular,react,js,aws" />
+  <img src="https://skillicons.dev/icons?i=ts,spring,angular,react,aws" />
 </p>
 
 I'm exploring **Spring Boot, Angular, and React** to broaden my full-stack perspective,  
